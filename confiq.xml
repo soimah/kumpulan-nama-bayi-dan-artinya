@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+   xmlns:gap   = "http://phonegap.com/ns/1.0"
+   id          = "com.mbp.appbayi"
+   VersionCode = "10"
+   version     = "1.0.2">
+   
+ <!-- versionCode is optional and android only -->
+ 
+ <name>Kumpulan Nama Bayi Dan Artinya </name>
+ 
+ <description>
+  ini merupakan aplikasi Katalog nama bayi
+   </description>
+<author href="https://stmik-wp.ac.id" email="soimahsiti62@gmail.com">
+       Siti Soimah
+	</author>
+	 <icon src="dedee.png" />
+	</widget>
